@@ -1,0 +1,6 @@
+applications:
+- name: service-catalog-management
+  host: 
+  memory: 640M
+  services:
+    - tmf-compose-for-mongodb
